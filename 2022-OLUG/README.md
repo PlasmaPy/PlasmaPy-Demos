@@ -1,4 +1,4 @@
-# Environment for the 2022 Omega Laser User Group (OLUG)
+# Demo for the 2022 Omega Laser User Group (OLUG)
 
 Notebooks from this folder can be run on Google Colaboratory (this will require a free Google account). 
 
