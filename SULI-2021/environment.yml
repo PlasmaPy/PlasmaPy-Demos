@@ -1,0 +1,20 @@
+name: suli
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python=3.9.5
+ - jupyter
+ - numpy=1.20.3
+ - scipy=1.6.3
+ - matplotlib=3.4.2
+ - plasmapy=0.6
+ - astropy=4.2.1
+ - pip
+ - hdf5=1.10.6
+ - h5py=3.3.0
+ - mpmath=1.2.1
+ - xarray=0.18.2
+ - pandas=1.2.5
+ - tqdm=4.61.1
+ - lmfit=1.0.2
