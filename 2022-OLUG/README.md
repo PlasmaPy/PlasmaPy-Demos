@@ -4,7 +4,7 @@ Notebooks from this folder can be run on Google Colaboratory (this will require 
 
 To open a workbook, follow these steps:
 
-1. Open Google Colab in your browser [![Google Colab](https://mybinder.org/badge_logo.svg)](https://colab.research.google.com/)
+1. Open Google Colab in your browser: [Google Colab](https://colab.research.google.com/)
 
 2. You should see a window to select a file. If not, select "File>Open a Notebook" from the tool bar. 
 
