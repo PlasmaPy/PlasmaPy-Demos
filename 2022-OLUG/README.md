@@ -13,7 +13,7 @@ Notebooks can either be opened directly from GitHub or by downloading the .ipynb
 
 ![image](https://user-images.githubusercontent.com/32618747/162498499-23900832-fe96-4d92-9258-d6af114cdb77.png)
 
-3. Select "GitHub" and enter the URL of the notebook (right click "Copy link" on the name of the notebook above) you want to open in the search field. 
+3. Select "GitHub" and enter the URL of the notebook (right click "Copy link address" on the name of the notebook above) you want to open in the search field. 
 
 4. If the notebook does not open immediately, click on the notebook in the list of names that appears below the search bar. 
 
