@@ -11,7 +11,27 @@ Instructions are included below for both options
 
 
 # Installing PlasmaPy and Jupyter Notebook Locally with Anaconda
+1. Download the .ipynb file for the notebook(s)
 
+2. Download and install [Anaconda](https://www.anaconda.com/download)
+
+3. Open Anaconda and do the following to create a new enviroment with PlasmaPy and all its dependencies installed.
+  a) Select the 'Enviroments' tab.
+  b) Left click on the green arrow.
+  c) Click'Open Terminal' to open a command prompt.
+![anaconda_open_terminal](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/a3054200-13ff-4d85-937e-0b379976536f)
+
+
+4.  In the terminal, create a new virtual enviroment by entering the command "conda create -n suli -c conda-forge plasmapy". When prompted, enter 'Y' to proceed with the installation. Installation will take a few minutes.
+![anaconda_create_enviroment](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/866e38f9-f5b4-4f0d-adfd-9ac2377c3ba9)
+
+5. Open the new enviroment and install Jupyter Notebook.
+  a) Select the 'Home' tab.
+  b) On the dropdown menu, select the newly created enviroment. 
+  c) Click the 'Install' button under on the card for Jupyter Notebook. 
+![anaconda_open_enviroment](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/cb23fa79-3f35-4f4b-8df1-7b6cb16d3af2)
+
+6. Click 'Launch' on the Jupyter Notebook card. The program should open in your default web browser. Navigate to the downloaded .ipynb file and click on the title to open the notebook. ![anaconda_open_notebook](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/67fa8cf0-4d92-4dc9-bee0-175dcd1d7f0f)
 
 
 # Running Examples on Google Collaboratory
