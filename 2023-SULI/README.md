@@ -67,7 +67,10 @@ Once the enviroment has opened, use the following tips to use it:
 
 ![image](https://user-images.githubusercontent.com/32618747/162499118-ecdbe48d-06ed-49c7-9c76-ed0a8cc32255.png)
 
+The first time you run a notebook that installs a package (like these), you may get an error. In this case, restart the runtime ("Runtime>Restart runtime") and the error should go away.
+
+
+# General Jupyter Notebook Tips
 - Select "Runtime>Run All" to run the entire notebook. 
-- The first time you run a notebook that installs a package (like these), you may get an error. In this case, restart the runtime ("Runtime>Restart runtime") and the error should go away.
 - To run a single cell, select the cell with your mouse and then press "Shift+Enter"
 - Create new cells using the "Insert" menu or the "+Code" button.
