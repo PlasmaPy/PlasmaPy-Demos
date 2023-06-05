@@ -2,8 +2,8 @@
 
 Notebooks from this folder can be run in two ways:
 
-1. (Preferred) On a local installation of python that includes Jupyter notebook. 
-2. Online on Google Colaboratory (this will require a free Google account). 
+1. Online on Google Colaboratory (this will require a free Google account). 
+2. On a local installation of python that includes Jupyter notebook. (Advanced)
 
 Note that some functionality, like interactive plots, may not work on Google Collaboratory. Instructions are included below for both options 
 
