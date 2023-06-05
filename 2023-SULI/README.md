@@ -8,9 +8,11 @@ Notebooks from this folder can be run in two ways:
 Note that some functionality, like interactive plots, may not work on Google Collaboratory. Instructions are included below for both options 
 
 # Table of contents
-1. [Installing PlasmaPy and Jupyter Notebook Locally with Anaconda](#installation_anaconda)
+1. [Running Examples on Jupyter Notebook Locally with Anaconda](#installation_anaconda)
+2. [Running Examples on Google Collaboratory](#installation_google_colab)
+3. [Using Jupyter Notebook](#jupyter_tips)
 
-# Installing PlasmaPy and Jupyter Notebook Locally with Anaconda <a name="installation_anaconda"></a>
+# Running Examples on Jupyter Notebook Locally with Anaconda <a name="installation_anaconda"></a>
 1. Download the .ipynb file for the notebook(s)
 
 2. Download and install [Anaconda](https://www.anaconda.com/download)
@@ -34,7 +36,7 @@ Note that some functionality, like interactive plots, may not work on Google Col
 6. Click 'Launch' on the Jupyter Notebook card. The program should open in your default web browser. Navigate to the downloaded .ipynb file and click on the title to open the notebook. ![anaconda_open_notebook](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/67fa8cf0-4d92-4dc9-bee0-175dcd1d7f0f)
 
 
-# Running Examples on Google Collaboratory
+# Running Examples on Google Collaboratory <a name="installation_google_colab"></a>
 
 ## Opening the Workbook
 
@@ -70,7 +72,7 @@ Once the enviroment has opened, use the following tips to use it:
 The first time you run a notebook that installs a package (like these), you may get an error. In this case, restart the runtime ("Runtime>Restart runtime") and the error should go away.
 
 
-# General Jupyter Notebook Tips
+# Using Jupyter Notebook <a name="jupyter_tips"></a>
 - Select "Runtime>Run All" to run the entire notebook. 
 - To run a single cell, select the cell with your mouse and then press "Shift+Enter"
 - Create new cells using the "Insert" menu or the "+Code" button.
