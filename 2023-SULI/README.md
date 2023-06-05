@@ -1,8 +1,22 @@
 # Demos for the 2023 Introduction to Fusion Energy and Plasma Physics Course
 
-Notebooks from this folder can be run on Google Colaboratory (this will require a free Google account). 
+Notebooks from this folder can be run in two ways:
 
-# Opening the Workbook
+1. (Preferred) On a local installation of python that includes Jupyter notebook. 
+2. Online on Google Colaboratory (this will require a free Google account). 
+
+Note that some functionality, like interactive plots, may not work on Google Collaboratory.
+
+Instructions are included below for both options 
+
+
+# Installing PlasmaPy and Jupyter Notebook Locally with Anaconda
+
+
+
+# Running Examples on Google Collaboratory
+
+## Opening the Workbook
 
 Notebooks can either be opened directly from GitHub or by downloading the .ipynb file and uploading it to Google Colab. 
 
@@ -27,8 +41,7 @@ Notebooks can either be opened directly from GitHub or by downloading the .ipynb
 2. From Google Colab, go to "File>Open a Notebook", then to the "Upload" tab to upload the file.
 
 
-
-# Running the Notebook
+## Running the Notebook
 
 Once the enviroment has opened, use the following tips to use it: 
 
