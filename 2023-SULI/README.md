@@ -5,16 +5,38 @@ Notebooks from this folder can be run in two ways:
 1. (Preferred) On a local installation of python that includes Jupyter notebook. 
 2. Online on Google Colaboratory (this will require a free Google account). 
 
-Note that some functionality, like interactive plots, may not work on Google Collaboratory.
+Note that some functionality, like interactive plots, may not work on Google Collaboratory. Instructions are included below for both options 
 
-Instructions are included below for both options 
+# Table of contents
+1. [Running Examples on Jupyter Notebook Locally with Anaconda](#installation_anaconda)
+2. [Running Examples on Google Collaboratory](#installation_google_colab)
+3. [Using Jupyter Notebook](#jupyter_tips)
+
+# Running Examples on Jupyter Notebook Locally with Anaconda <a name="installation_anaconda"></a>
+1. Download the .ipynb file for the notebook(s)
+
+2. Download and install [Anaconda](https://www.anaconda.com/download)
+
+3. Open Anaconda and do the following to create a new enviroment with PlasmaPy and all its dependencies installed.
+  a) Select the 'Enviroments' tab.
+  b) Left click on the green arrow.
+  c) Click'Open Terminal' to open a command prompt.
+![anaconda_open_terminal](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/a3054200-13ff-4d85-937e-0b379976536f)
 
 
-# Installing PlasmaPy and Jupyter Notebook Locally with Anaconda
+4.  In the terminal, create a new virtual enviroment by entering the command "conda create -n suli -c conda-forge plasmapy". When prompted, enter 'Y' to proceed with the installation. Installation will take a few minutes.
+![anaconda_create_enviroment](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/866e38f9-f5b4-4f0d-adfd-9ac2377c3ba9)
+
+5. Open the new enviroment and install Jupyter Notebook.
+  a) Select the 'Home' tab.
+  b) On the dropdown menu, select the newly created enviroment. 
+  c) Click the 'Install' button under on the card for Jupyter Notebook. 
+![anaconda_open_enviroment](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/cb23fa79-3f35-4f4b-8df1-7b6cb16d3af2)
+
+6. Click 'Launch' on the Jupyter Notebook card. The program should open in your default web browser. Navigate to the downloaded .ipynb file and click on the title to open the notebook. ![anaconda_open_notebook](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/67fa8cf0-4d92-4dc9-bee0-175dcd1d7f0f)
 
 
-
-# Running Examples on Google Collaboratory
+# Running Examples on Google Collaboratory <a name="installation_google_colab"></a>
 
 ## Opening the Workbook
 
@@ -47,7 +69,10 @@ Once the enviroment has opened, use the following tips to use it:
 
 ![image](https://user-images.githubusercontent.com/32618747/162499118-ecdbe48d-06ed-49c7-9c76-ed0a8cc32255.png)
 
+The first time you run a notebook that installs a package (like these), you may get an error. In this case, restart the runtime ("Runtime>Restart runtime") and the error should go away.
+
+
+# Using Jupyter Notebook <a name="jupyter_tips"></a>
 - Select "Runtime>Run All" to run the entire notebook. 
-- The first time you run a notebook that installs a package (like these), you may get an error. In this case, restart the runtime ("Runtime>Restart runtime") and the error should go away.
 - To run a single cell, select the cell with your mouse and then press "Shift+Enter"
 - Create new cells using the "Insert" menu or the "+Code" button.
