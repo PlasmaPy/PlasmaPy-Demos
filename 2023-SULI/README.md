@@ -56,6 +56,8 @@ To launch a Binder enviroment with PlasmaPy installed and example notebooks from
   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/PlasmaPy-Demos/main)
 
+Once the Binder enviroment has initialized, navigate to the folder with the name of this workshop and select the example notebook you want to run.
+
 # Running Examples on Jupyter Notebook Locally with Anaconda <a name="installation_anaconda"></a>
 1. Download the .ipynb file for the notebook(s)
 
