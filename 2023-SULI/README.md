@@ -54,7 +54,7 @@ The first time you run a notebook that installs a package (like these), you may 
   
 To launch a Binder enviroment with PlasmaPy installed and example notebooks from this folder loaded, click the link below. Note that the Binder enviroment takes some time (~10 minutes) to initialize, and that Binder may stop working if many people all sign on at once (e.g. during a large workshop). 
   
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/PlasmaPy-Demos/main/2023-SULI)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/PlasmaPy-Demos/main)
 
 # Running Examples on Jupyter Notebook Locally with Anaconda <a name="installation_anaconda"></a>
 1. Download the .ipynb file for the notebook(s)
