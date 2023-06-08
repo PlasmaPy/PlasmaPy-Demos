@@ -32,11 +32,9 @@ To open the notebooks on **Google Colab**, please open the following links:
 
 ## Running the Notebook
 
-Once the enviroment has opened, use the following tips to use it: 
+After opening each notebook, please execute the first code cell by pressing "Shift + Enter" in order to install PlasmaPy. After doing so, either click on the "Restart runtime" box in the output, or go to "Runtime" and select "Restart runtime":
 
 ![image](https://user-images.githubusercontent.com/32618747/162499118-ecdbe48d-06ed-49c7-9c76-ed0a8cc32255.png)
-
-After opening each notebook in Google Colab, please execute the first code cell by pressing "Shift + Enter" in order to install PlasmaPy. After doing so, click on the "Restart runtime" box in the output.  
 
 # Running Examples on Binder <a name="installation_binder"></a>
   
