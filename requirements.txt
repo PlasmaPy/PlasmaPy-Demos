@@ -60,7 +60,7 @@ parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.5.0
-plasmapy==2023.5.0
+plasmapy==2023.5.1
 platformdirs==3.5.1
 pluggy==1.0.0
 prometheus-client==0.17.0
