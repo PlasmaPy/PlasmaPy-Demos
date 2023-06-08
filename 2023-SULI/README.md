@@ -12,7 +12,8 @@ Notebooks for this workshop can be run in three ways:
 
 3. On a **local installation of Python** that includes Jupyter notebook. (Advanced)
 
-Note that some functionality, like interactive plots, may not work on Google Colaboratory. Instructions are included below for each option.
+Some functionality, like interactive plots, may not work on Google Colaboratory. Instructions are included below for each option.
+
 
 # Table of contents
 
@@ -47,6 +48,11 @@ Once the Binder enviroment has initialized, navigate to the folder with the name
 # Running Examples on Jupyter Notebook Locally with Anaconda <a name="installation_anaconda"></a>
 1. Download the .ipynb file for the notebook(s)
 
+   The notebooks can be downloaded from Google Drive by right clicking on the following links and choosing "Save As":
+
+   - [Getting started with PlasmaPy](https://drive.google.com/file/d/1xf4M64Xp6e2tfo17W2Pm_6B1jzPy4L36/view?usp=sharing)
+   - [Single particle drifts](https://drive.google.com/file/d/1tAXZOF3_TD5CBMsE_6eDdP_-M95_vcRD/view?usp=sharing)
+
 2. Download and install [Anaconda](https://www.anaconda.com/download)
 
 3. Open Anaconda and do the following to create a new enviroment with PlasmaPy and all its dependencies installed.
@@ -73,11 +79,10 @@ Once the Binder enviroment has initialized, navigate to the folder with the name
   
 ![anaconda_open_enviroment](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/cb23fa79-3f35-4f4b-8df1-7b6cb16d3af2)
 
-6. Click 'Launch' on the Jupyter Notebook card. The program should open in your default web browser. Navigate to the downloaded .ipynb file and click on the title to open the notebook. ![anaconda_open_notebook](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/67fa8cf0-4d92-4dc9-bee0-175dcd1d7f0f)
-
-  
+6. Click 'Launch' on the Jupyter Notebook card. The program should open in your default web browser. Navigate to the downloaded .ipynb file and click on the title to open the notebook. ![anaconda_open_notebook](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/67fa8cf0-4d92-4dc9-bee0-175dcd1d7f0f) 
 
 # Tips on Using Jupyter Notebook <a name="jupyter_tips"></a>
+
 - Select "Runtime>Run All" to run the entire notebook. 
 - To run a single cell, select the cell with your mouse and then press "Shift+Enter"
 - Create new cells using the "Insert" menu or the "+Code" button.
