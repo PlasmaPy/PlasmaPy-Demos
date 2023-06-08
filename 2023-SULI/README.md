@@ -2,18 +2,20 @@
 
 Notebooks from this folder can be run in three ways:
 
-1. Online on Google Colaboratory (no setup needed, but must have a Google account)
-  - [Notebook #1](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/plasmapy-tutorial.ipynb)
-  - [Notebook #2](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/single_particle_drifts.ipynb)
-2. Online on Binder (no setup needed, but less reliable)
+1. Online on **Google Colaboratory** (no setup needed, but must have a Google account)
+  - [Getting started with PlasmaPy](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/plasmapy-tutorial.ipynb)
+  - [Single particle drifts](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/single_particle_drifts.ipynb)
+
+2. Online on **Binder** (no setup needed, but less reliable)
 
    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/PlasmaPy-Demos/main)
 
-3. On a local installation of Python that includes Jupyter notebook. (Advanced)
+3. On a **local installation of Python** that includes Jupyter notebook. (Advanced)
 
 Note that some functionality, like interactive plots, may not work on Google Colaboratory. Instructions are included below for each option.
 
 # Table of contents
+
 1. [Running Examples on Google Colaboratory](#installation_google_colab)
 2. [Running Examples on Binder](#installation_binder)
 3. [Running Examples on Jupyter Notebook Locally with Anaconda](#installation_anaconda)
@@ -21,30 +23,12 @@ Note that some functionality, like interactive plots, may not work on Google Col
 
 # Running Examples on Google Colaboratory <a name="installation_google_colab"></a>
 
-## Opening the Workbook
+## Opening the Notebooks
 
-Notebooks can either be opened directly from GitHub or by downloading the .ipynb file and uploading it to Google Colab. 
+To open the notebooks on **Google Colab**, please open the following links:
 
-## Opening fron GitHub
-1. Open Google Colab in your browser: [Google Colab](https://colab.research.google.com/)
-
-2. You should see a window to select a file. If not, select "File>Open a Notebook" from the tool bar. 
-
-![image](https://user-images.githubusercontent.com/32618747/162498499-23900832-fe96-4d92-9258-d6af114cdb77.png)
-
-3. Select "GitHub" and enter the URL of the notebook (right click "Copy link address" on the name of the notebook above) you want to open in the search field. 
-
-4. If the notebook does not open immediately, click on the notebook in the list of names that appears below the search bar. 
-
-
-## Opening from a Downloaded File
-
-![image](https://user-images.githubusercontent.com/32618747/162499834-fc224d93-cad8-4e2d-916e-775198b69f55.png)
-
-1. Right-click and click "Save link as" to save the notebook you want to open.
-
-2. From Google Colab, go to "File>Open a Notebook", then to the "Upload" tab to upload the file.
-
+  - [Getting started with PlasmaPy](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/plasmapy-tutorial.ipynb) (part 1)
+  - [Single particle drifts](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/single_particle_drifts.ipynb) (part 2)
 
 ## Running the Notebook
 
@@ -52,12 +36,11 @@ Once the enviroment has opened, use the following tips to use it:
 
 ![image](https://user-images.githubusercontent.com/32618747/162499118-ecdbe48d-06ed-49c7-9c76-ed0a8cc32255.png)
 
-The first time you run a notebook that installs a package (like these), you may get an error. In this case, restart the runtime ("Runtime>Restart runtime") and the error should go away.
-
+After opening each notebook in Google Colab, please execute the first code cell by pressing "Shift + Enter" in order to install PlasmaPy. After doing so, click on the "Restart runtime" box in the output.  
 
 # Running Examples on Binder <a name="installation_binder"></a>
   
-To launch a Binder enviroment with PlasmaPy installed and example notebooks from this folder loaded, click the link below. Note that the Binder enviroment takes some time (~10 minutes) to initialize, and that Binder may stop working if many people all sign on at once (e.g. during a large workshop). 
+To launch a **Binder** enviroment with PlasmaPy installed and example notebooks from this folder loaded, click the link below. The Binder enviroment takes some time (~5–10 minutes) to initialize, and that Binder may stop working if many people all sign on at once (e.g. during a large workshop). 
   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/PlasmaPy-Demos/main)
 
