@@ -1,6 +1,6 @@
 # Demos for the 2023 Introduction to Fusion Energy and Plasma Physics Course
 
-Notebooks from this folder can be run in two ways:
+Notebooks from this folder can be run in three ways:
 
 1. Online on Google Colaboratory (this will require a free Google account).
   - [Notebook #1](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/plasmapy-tutorial.ipynb)
