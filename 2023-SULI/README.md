@@ -2,21 +2,21 @@
 
 Notebooks from this folder can be run in three ways:
 
-1. Online on Google Colaboratory (this will require a free Google account).
+1. Online on Google Colaboratory (no setup needed, but must have a Google account)
   - [Notebook #1](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/plasmapy-tutorial.ipynb)
   - [Notebook #2](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/single_particle_drifts.ipynb)
-2. Online on Binder. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/PlasmaPy-Demos/main)
+2. Online on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/PlasmaPy-Demos/main) (no setup needed, but less reliable)
 3. On a local installation of Python that includes Jupyter notebook. (Advanced)
 
-Note that some functionality, like interactive plots, may not work on Google Collaboratory. Instructions are included below for both options 
+Note that some functionality, like interactive plots, may not work on Google Colaboratory. Instructions are included below for each option.
 
 # Table of contents
-1. [Running Examples on Google Collaboratory](#installation_google_colab)
+1. [Running Examples on Google Colaboratory](#installation_google_colab)
 2. [Running Examples on Binder](#installation_binder)
 3. [Running Examples on Jupyter Notebook Locally with Anaconda](#installation_anaconda)
 4. [Tips on Using Jupyter Notebook](#jupyter_tips)
 
-# Running Examples on Google Collaboratory <a name="installation_google_colab"></a>
+# Running Examples on Google Colaboratory <a name="installation_google_colab"></a>
 
 ## Opening the Workbook
 
