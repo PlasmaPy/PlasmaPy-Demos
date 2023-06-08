@@ -5,7 +5,10 @@ Notebooks from this folder can be run in three ways:
 1. Online on Google Colaboratory (no setup needed, but must have a Google account)
   - [Notebook #1](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/plasmapy-tutorial.ipynb)
   - [Notebook #2](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/single_particle_drifts.ipynb)
-2. Online on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/PlasmaPy-Demos/main) (no setup needed, but less reliable)
+2. Online on Binder (no setup needed, but less reliable)
+
+   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/PlasmaPy-Demos/main)
+
 3. On a local installation of Python that includes Jupyter notebook. (Advanced)
 
 Note that some functionality, like interactive plots, may not work on Google Colaboratory. Instructions are included below for each option.
