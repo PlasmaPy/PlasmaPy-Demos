@@ -48,7 +48,7 @@ Once the Binder enviroment has initialized, navigate to the folder with the name
 # Running Examples on Jupyter Notebook Locally with Anaconda <a name="installation_anaconda"></a>
 1. Download the .ipynb file for the notebook(s)
 
-   The notebooks can be downloaded from Google Drive by right clicking on the following links and choosing "Save As":
+   The notebooks can be downloaded from Google Drive at the following links. Click on the link and select "Download".
 
    - [Getting started with PlasmaPy](https://drive.google.com/file/d/1xf4M64Xp6e2tfo17W2Pm_6B1jzPy4L36/view?usp=sharing)
    - [Single particle drifts](https://drive.google.com/file/d/1tAXZOF3_TD5CBMsE_6eDdP_-M95_vcRD/view?usp=sharing)
