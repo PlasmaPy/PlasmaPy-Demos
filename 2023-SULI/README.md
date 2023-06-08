@@ -1,10 +1,10 @@
-# Demos for the 2023 Introduction to Fusion Energy and Plasma Physics Course
+# Computational Workshop for the 2023 SULI Introduction to Fusion Energy and Plasma Physics Course
 
-Notebooks from this folder can be run in three ways:
+Notebooks for this workshop can be run in three ways:
 
 1. Online on **Google Colaboratory** (no setup needed, but must have a Google account)
-  - [Getting started with PlasmaPy](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/plasmapy-tutorial.ipynb)
-  - [Single particle drifts](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/single_particle_drifts.ipynb)
+  - [**Getting started with PlasmaPy**](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/plasmapy-tutorial.ipynb) (part 1 with Nick)
+  - [**Single particle drifts**](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/single_particle_drifts.ipynb) (part 2 with Peter)
 
 2. Online on **Binder** (no setup needed, but less reliable)
 
