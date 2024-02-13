@@ -6,7 +6,7 @@ Notebooks from this folder can be run on Google Colaboratory (this will require 
 
 Notebooks can either be opened directly from GitHub or by downloading the .ipynb file and uploading it to Google Colab. 
 
-## Opening fron GitHub
+## Opening from GitHub
 1. Open Google Colab in your browser: [Google Colab](https://colab.research.google.com/)
 
 2. You should see a window to select a file. If not, select "File>Open a Notebook" from the tool bar. 
@@ -30,7 +30,7 @@ Notebooks can either be opened directly from GitHub or by downloading the .ipynb
 
 # Running the Notebook
 
-Once the enviroment has opened, use the following tips to use it: 
+Once the environment has opened, use the following tips to use it: 
 
 ![image](https://user-images.githubusercontent.com/32618747/162499118-ecdbe48d-06ed-49c7-9c76-ed0a8cc32255.png)
 
