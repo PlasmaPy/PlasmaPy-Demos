@@ -10,5 +10,6 @@ repos:
   - id: codespell
     name: codespell (add false positives to pyproject.toml)
     args: [--write-changes]
+    exclude: "2024-LLE/single_particle_drifts.ipynb"
     additional_dependencies:
     - tomli
