@@ -41,11 +41,11 @@ After opening each notebook, please execute the first code cell by pressing "Shi
 
 # Running Examples on Binder <a name="installation_binder"></a>
   
-To launch a **Binder** enviroment with PlasmaPy installed and example notebooks from this folder loaded, click the link below. The Binder enviroment takes some time (~5–10 minutes) to initialize, and that Binder may stop working if many people all sign on at once (e.g. during a large workshop). 
+To launch a **Binder** environment with PlasmaPy installed and example notebooks from this folder loaded, click the link below. The Binder environment takes some time (~5–10 minutes) to initialize, and that Binder may stop working if many people all sign on at once (e.g. during a large workshop). 
   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/PlasmaPy-Demos/main)
 
-Once the Binder enviroment has initialized, navigate to the folder with the name of this workshop and select the example notebook you want to run.
+Once the Binder environment has initialized, navigate to the folder with the name of this workshop and select the example notebook you want to run.
 
 # Running Examples on Jupyter Notebook Locally with Anaconda <a name="installation_anaconda"></a>
 1. Download the .ipynb file for the notebook(s)
@@ -57,7 +57,7 @@ Once the Binder enviroment has initialized, navigate to the folder with the name
 
 2. Download and install [Anaconda](https://www.anaconda.com/download)
 
-3. Open Anaconda and do the following to create a new enviroment with PlasmaPy and all its dependencies installed.
+3. Open Anaconda and do the following to create a new environment with PlasmaPy and all its dependencies installed.
 
   a) Select the 'Enviroments' tab.
   
@@ -68,14 +68,14 @@ Once the Binder enviroment has initialized, navigate to the folder with the name
 ![anaconda_open_terminal](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/a3054200-13ff-4d85-937e-0b379976536f)
 
 
-4.  In the terminal, create a new virtual enviroment by entering the command "conda create -n suli -c conda-forge plasmapy". When prompted, enter 'Y' to proceed with the installation. Installation will take a few minutes.
+4.  In the terminal, create a new virtual environment by entering the command "conda create -n suli -c conda-forge plasmapy". When prompted, enter 'Y' to proceed with the installation. Installation will take a few minutes.
 ![anaconda_create_enviroment](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/866e38f9-f5b4-4f0d-adfd-9ac2377c3ba9)
 
-5. Open the new enviroment and install Jupyter Notebook.
+5. Open the new environment and install Jupyter Notebook.
 
   a) Select the 'Home' tab.
   
-  b) On the dropdown menu, select the newly created enviroment. 
+  b) On the dropdown menu, select the newly created environment. 
   
   c) Click the 'Install' button under on the card for Jupyter Notebook. 
   
