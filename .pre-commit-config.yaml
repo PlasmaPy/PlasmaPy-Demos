@@ -1,0 +1,23 @@
+ci:
+  autofix_prs: false
+  autoupdate_schedule: monthly
+
+repos:
+
+- repo: https://github.com/codespell-project/codespell
+  rev: v2.2.6
+  hooks:
+  - id: codespell
+    name: codespell (add false positives to pyproject.toml)
+    args: [--write-changes]
+    additional_dependencies:
+    - tomli
+
+- repo: https://github.com/nbQA-dev/nbQA
+  rev: 1.7.1
+  hooks:
+  - id: nbqa-check-ast
+    name: validate Python notebooks
+  - id: nbqa-ruff
+    name: ruff for notebooks (see https://docs.astral.sh/ruff/rules)
+    args: [--fix, '--select=A,ARG,B,BLE,C,C4,E,F,FLY,I,INT,ISC,PERF,PIE,PLC,PLE,PYI,Q003,RET,RSE,SIM,TID,TRY,UP,W', '--ignore=B007,B008,B015,B018,E402,E501,E741,SIM114']
