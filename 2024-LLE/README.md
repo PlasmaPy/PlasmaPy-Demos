@@ -28,10 +28,7 @@ Some functionality, like interactive plots, may not work on Google Colaboratory.
 
 ## Opening the Notebooks
 
-To open the notebooks on **Google Colab**, please open the following links:
-
-  - [Getting started with PlasmaPy](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/plasmapy-tutorial.ipynb) (part 1)
-  - [Single particle drifts](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2023-SULI/single_particle_drifts.ipynb) (part 2)
+To open the notebooks on **Google Colab**, please open the links at the top of this README. 
 
 ## Running the Notebook
 
