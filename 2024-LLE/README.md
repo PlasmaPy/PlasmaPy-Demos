@@ -4,9 +4,11 @@ Notebooks for this workshop can be run in three ways:
 
 1. Online on **Google Colaboratory** (no setup needed, but must have a Google account)
   - [**Getting started with PlasmaPy**](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2024-LLE/plasmapy-tutorial.ipynb) (part 1 with Nick)
-  - [**Single particle drifts**](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2024-LLE/single_particle_drifts.ipynb) (part 2 with Peter)
   - [**Proton radiography**](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2024-LLE/charged_particle_radiography.ipynb) (part 2 with Peter)
   - [**Optical Thomson scattering**](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2024-LLE/thomson_scattering.ipynb) (part 2 with Peter)
+
+  One additional bonus notebook (not covered during the workshop)
+  -  [**Single particle drifts**](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2024-LLE/single_particle_drifts.ipynb) 
 
 2. Online on **Binder** (no setup needed, but less reliable)
 
