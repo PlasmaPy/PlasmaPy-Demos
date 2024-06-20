@@ -38,9 +38,9 @@ After opening each notebook, please execute the first code cell by pressing "Shi
 ![image](https://user-images.githubusercontent.com/32618747/162499118-ecdbe48d-06ed-49c7-9c76-ed0a8cc32255.png)
 
 # Running Examples on Binder <a name="installation_binder"></a>
-  
-To launch a **Binder** environment with PlasmaPy installed and example notebooks from this folder loaded, click the link below. The Binder environment takes some time (~5–10 minutes) to initialize, and that Binder may stop working if many people all sign on at once (e.g. during a large workshop). 
-  
+
+To launch a **Binder** environment with PlasmaPy installed and example notebooks from this folder loaded, click the link below. The Binder environment takes some time (~5–10 minutes) to initialize, and that Binder may stop working if many people all sign on at once (e.g. during a large workshop).
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/PlasmaPy-Demos/main)
 
 Once the Binder environment has initialized, navigate to the folder with the name of this workshop and select the example notebook you want to run.
@@ -58,11 +58,11 @@ Once the Binder environment has initialized, navigate to the folder with the nam
 3. Open Anaconda and do the following to create a new environment with PlasmaPy and all its dependencies installed.
 
   a) Select the 'Enviroments' tab.
-  
+
   b) Left click on the green arrow.
-  
+
   c) Click 'Open Terminal' to open a command prompt.
-  
+
 ![anaconda_open_terminal](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/a3054200-13ff-4d85-937e-0b379976536f)
 
 
@@ -72,17 +72,17 @@ Once the Binder environment has initialized, navigate to the folder with the nam
 5. Open the new environment and install Jupyter Notebook.
 
   a) Select the 'Home' tab.
-  
-  b) On the dropdown menu, select the newly created environment. 
-  
-  c) Click the 'Install' button under on the card for Jupyter Notebook. 
-  
+
+  b) On the dropdown menu, select the newly created environment.
+
+  c) Click the 'Install' button under on the card for Jupyter Notebook.
+
 ![anaconda_open_enviroment](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/cb23fa79-3f35-4f4b-8df1-7b6cb16d3af2)
 
-6. Click 'Launch' on the Jupyter Notebook card. The program should open in your default web browser. Navigate to the downloaded `.ipynb` file and click on the title to open the notebook. ![anaconda_open_notebook](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/67fa8cf0-4d92-4dc9-bee0-175dcd1d7f0f) 
+6. Click 'Launch' on the Jupyter Notebook card. The program should open in your default web browser. Navigate to the downloaded `.ipynb` file and click on the title to open the notebook. ![anaconda_open_notebook](https://github.com/PlasmaPy/PlasmaPy-Demos/assets/32618747/67fa8cf0-4d92-4dc9-bee0-175dcd1d7f0f)
 
 # Tips on Using Jupyter Notebook <a name="jupyter_tips"></a>
 
-- Select "Runtime>Run All" to run the entire notebook. 
+- Select "Runtime>Run All" to run the entire notebook.
 - To run a single cell, select the cell with your mouse and then press "Shift+Enter"
 - Create new cells using the "Insert" menu or the "+Code" button.
