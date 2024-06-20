@@ -6,6 +6,8 @@ Notebooks for this workshop can be run in three ways:
   - [**Getting started with PlasmaPy**](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2024-SULI/plasmapy-tutorial.ipynb) ✨ (part 1 with Nick)
   - [**Single particle drifts**](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2024-SULI/single_particle_drifts.ipynb) 💫 (part 2 with Peter)
 
+To hide AI features, go to Tools → Settings → AI Assistance and click on "Hide generative AI features."
+
 2. Online on **Binder** (no setup needed, but less reliable)
 
    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/PlasmaPy-Demos/main)
@@ -30,7 +32,7 @@ To open the notebooks on **Google Colab**, please open the links at the top of t
 
 ## Running the Notebook
 
-After opening each notebook, please execute the first code cell by pressing "Shift + Enter" in order to install PlasmaPy. After doing so, either click on the "Restart runtime" box in the output, or go to "Runtime" and select "Restart runtime":
+After opening each notebook, please execute the first code cell by pressing "Shift + Enter" in order to install PlasmaPy. When prompted, click **Run anyway**. If prompted again, either click on the "Restart runtime" box in the output, or go to "Runtime" and select "Restart runtime":
 
 ![image](https://user-images.githubusercontent.com/32618747/162499118-ecdbe48d-06ed-49c7-9c76-ed0a8cc32255.png)
 
