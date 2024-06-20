@@ -2,7 +2,7 @@
 
 Notebooks for this workshop can be run in three ways:
 
-1. Online on **Google Colaboratory** (no setup needed, but must have a Google account)
+1. Online on **Google Colab** (no setup needed, but must have a Google account)
   - [**Getting started with PlasmaPy**](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2024-SULI/plasmapy-tutorial.ipynb) ✨ (part 1 with Nick)
   - [**Single particle drifts**](https://colab.research.google.com/github/PlasmaPy/PlasmaPy-Demos/blob/main/2024-SULI/single_particle_drifts.ipynb) 💫 (part 2 with Peter)
 
@@ -12,17 +12,17 @@ Notebooks for this workshop can be run in three ways:
 
 3. On a **local installation of Python** that includes Jupyter notebook. (Advanced)
 
-Some functionality, like interactive plots, may not work on Google Colaboratory. Instructions are included below for each option.
+Some functionality, like interactive plots, may not work on Google Colab. Instructions are included below for each option.
 
 
 # Table of contents
 
-1. [Running Examples on Google Colaboratory](#installation_google_colab)
+1. [Running Examples on Google Colab](#installation_google_colab)
 2. [Running Examples on Binder](#installation_binder)
 3. [Running Examples on Jupyter Notebook Locally with Anaconda](#installation_anaconda)
 4. [Tips on Using Jupyter Notebook](#jupyter_tips)
 
-# Running Examples on Google Colaboratory <a name="installation_google_colab"></a>
+# Running Examples on Google Colab <a name="installation_google_colab"></a>
 
 ## Opening the Notebooks
 
