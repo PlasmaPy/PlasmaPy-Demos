@@ -1,4 +1,4 @@
-# PlasmaPy Workshop at the SULI Summer School (6/2024)
+# PlasmaPy Workshop at the SULI Summer School (6/2025)
 
 Notebooks for this workshop can be run in three ways:
 
