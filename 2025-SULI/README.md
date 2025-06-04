@@ -47,14 +47,13 @@ Once the Binder environment has initialized, navigate to the folder with the nam
 # Running Examples on Jupyter Notebook Locally with Anaconda <a name="installation_anaconda"></a>
 1. Download the .ipynb file for the notebook(s)
 
-   The notebooks can be downloaded from Google Drive at the following links. Click on the link and select "Download".
+   The notebooks can be downloaded from this GitHub repository. Click on the file you want to download to open the GitHub page for that file. Then, click the download icon to download the raw file.
 
-   - [Getting started with PlasmaPy](https://drive.google.com/file/d/1xf4M64Xp6e2tfo17W2Pm_6B1jzPy4L36/view?usp=sharing)
-   - [Single particle drifts](https://drive.google.com/file/d/1tAXZOF3_TD5CBMsE_6eDdP_-M95_vcRD/view?usp=sharing)
+   ![image](https://github.com/user-attachments/assets/6e5176dd-5249-4fb7-90c8-fe4e4bfae3e1)
 
-2. Download and install [Anaconda](https://www.anaconda.com/download)
+3. Download and install [Anaconda](https://www.anaconda.com/download)
 
-3. Open Anaconda and do the following to create a new environment with PlasmaPy and all its dependencies installed.
+4. Open Anaconda and do the following to create a new environment with PlasmaPy and all its dependencies installed.
 
   a) Select the 'Enviroments' tab.
 
