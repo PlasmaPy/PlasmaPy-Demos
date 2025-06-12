@@ -5,7 +5,7 @@ ci:
 repos:
 
 - repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v4.6.0
+  rev: v5.0.0
   hooks:
   - id: check-merge-conflict
     name: check for git merge conflicts
@@ -19,7 +19,7 @@ repos:
   - id: check-yaml
 
 - repo: https://github.com/codespell-project/codespell
-  rev: v2.3.0
+  rev: v2.4.1
   hooks:
   - id: codespell
     name: codespell (add false positives to pyproject.toml)
